@@ -168,22 +168,6 @@
                 </div>
             </div>
             <div class="row">
-
-                <!-- MY DAILY LOG -->
-                <div class="col-md-4 col-sm-6 projects-item">
-                    <a href="#projectsModalMyDailyLog" class="projects-link" data-toggle="modal">
-                        <div class="projects-hover" id="project-mydailylog">
-                            <div class="projects-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/projects/mydailylog_thumb.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="projects-caption">
-                        <h4>My Daily Log/h4>
-                        <p class="text-muted">PHP application</p>
-                    </div>
-                </div>
             
             	<!-- MANFREDA ART -->
                 <div class="col-md-4 col-sm-6 projects-item">
@@ -233,22 +217,6 @@
                     </div>
                 </div>
                 
-                 <!-- FREELANCER TYPO3 
-                <div class="col-md-4 col-sm-6 projects-item">
-                    <a href="#projectsModalTypo3" class="projects-link" data-toggle="modal">
-                        <div class="projects-hover">
-                            <div class="projects-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/projects/typo3_thumb.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="projects-caption">
-                        <h4>Freelance Work</h4>
-                        <p class="text-muted">TYPO3 Websites</p>
-                    </div>
-                </div>-->
-                
                 <!-- NETMUSIC 
                 <div class="col-md-4 col-sm-6 projects-item">
                     <a href="#projectsModalNetmusic" class="projects-link" data-toggle="modal">
@@ -289,7 +257,7 @@
                     <div class="team-member">
 	                    <img src="img/work/world-direct_logo.png" title="World-Direct" class="img-responsive img-circle2" alt="Logo image of the World-Direct."">
                         <!-- <h4>World-Direct</h4> -->
-                        <p class="text-muted"><br>Software company developing projects and products in CRM, VOIP, TYPO3 or event medical applications.</p>
+                        <p class="text-muted"><br>Software company developing projects and products in CRM, VOIP, TYPO3 or even medical and energy applications.</p>
                     </div>
                 </div>
             
@@ -301,18 +269,7 @@
                         <p class="text-muted"><br>Most of the time I work on medium to large TYPO3 projects for companies, political parties and government organizations located in Austria.</p>
                     </div>
                 </div>
-                
-                <!-- OPENCART -->
-                <div class="col-sm-3">
-<!--
-                    <div class="team-member">
-                        <img src="img/work/opencart_logo.png" title="OpenCart" class="img-responsive img-circle2" alt="OpenCart logo">
-                        <h4>Opencart</h4>
-                        <p class="text-muted"><br>I develop OpenCart ecommerce platforms using modifications, various third party plugins as well as own frontend themes.</p>
-                    </div>
--->
-                </div>
-                
+
                 <!-- VARIOUS -->
                 <div class="col-sm-3">
                     <div class="team-member">
@@ -320,6 +277,12 @@
                         <p class="text-muted"><br>I also do client workshops for TYPO3, internal development of workflows and platforms, company wide education courses and other interesting stuff.</p>
                     </div>
                 </div>
+
+                <div class="col-sm-3">
+
+                </div>
+                
+                
                 
             </div>
         </div>
